@@ -133,3 +133,5 @@ while wahl != 0:
 		print("Programm wird vom Benutzer beendet.") 
 		break
 ```
+
+-> Alles andere kommt noch
