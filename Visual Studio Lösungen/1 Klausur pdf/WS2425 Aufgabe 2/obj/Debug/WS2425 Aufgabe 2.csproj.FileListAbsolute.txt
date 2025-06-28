@@ -1,0 +1,11 @@
+E:\VS2022\WS2425 Aufgabe 2\bin\Debug\WS2425 Aufgabe 2.exe.config
+E:\VS2022\WS2425 Aufgabe 2\bin\Debug\WS2425 Aufgabe 2.exe
+E:\VS2022\WS2425 Aufgabe 2\bin\Debug\WS2425 Aufgabe 2.pdb
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425 Aufgabe 2.csproj.AssemblyReference.cache
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425 Aufgabe 2.csproj.SuggestedBindingRedirects.cache
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425_Aufgabe_2.Form1.resources
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425_Aufgabe_2.Properties.Resources.resources
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425 Aufgabe 2.csproj.GenerateResource.cache
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425 Aufgabe 2.csproj.CoreCompileInputs.cache
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425 Aufgabe 2.exe
+E:\VS2022\WS2425 Aufgabe 2\obj\Debug\WS2425 Aufgabe 2.pdb
