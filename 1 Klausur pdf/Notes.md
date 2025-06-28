@@ -109,14 +109,14 @@ Das ganze mit `self` braucht in C# niemand, das ist so ein Python ding.
 ## Aufgabe 5: 6 Punkte
 >Erstellen sie ein Klassendiagramm aus der Klasse Angestellter aus Aufgabe 4
 
-![[Aufgabe 5]]
+![Aufgabe 5](https://github.com/very-many/UX-SE-S4/blob/main/1 Klausur pdf/Archive/Aufgabe-5.png)
 
 ## Aufgabe 6 : 4 Punkte
 > Nennen Sie 3 Vorgehensmodelle, die im Softwareengineering angewendet werden, und beschreiben sie stichwortartig deren Eigenschaften.
 
-Junge was labert der?
+*Kommt noch* -- könnt aber au chat gpt oder so fragen
 
 ## Aufgabe 7 : 4 Punkte
 > Beschreiben sie kurz wie diversifizierende Softwaretest durchgeführt werden.
 
-Junge was labert der?
+*Kommt noch* -- könnt aber au chat gpt oder so fragen
