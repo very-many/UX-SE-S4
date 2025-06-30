@@ -71,7 +71,8 @@ private static void zaehlenInZweierSchritten(int z1, int z2)
 ```
 
 ## Aufgabe 4: 11 Punkte
-Berichtigen und vervollständigen sie folgenden Quelltext damit er voll funktionsfähig wird: Hinweis: Die relevanten Zeilen sind farblich markiert
+> Berichtigen und vervollständigen sie folgenden Quelltext damit er voll funktionsfähig wird: Hinweis: Die relevanten Zeilen sind farblich markiert
+
 ```diff
 ABSOLUTER_NP_K = 0.0 # absoluter Nullpunkt in Kelvin 
 ABSOLUTER_NP_C = -273.15 # absoluter Nullpunkt in Celsius 
