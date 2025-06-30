@@ -135,3 +135,8 @@ while wahl != 0:
 ```
 
 -> Alles andere kommt noch
+
+## Aufgabe 5: 10 Punkte
+
+> Erstellen sie ausfolgendem Klassendiagramm eine Python Klasse: Geben sie als Rückgabewerte der Methoden jeweils mit den Standardwerten initialisierte Variablen zurück. Beispiel: String -> Standardwert ´´, int -> Standardwert 0, usw.
+
