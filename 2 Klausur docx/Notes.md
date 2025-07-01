@@ -146,4 +146,4 @@ while wahl != 0:
 ## Aufgabe 7: 12 Punkte
 > Erstellen sie ein UML-Sequenzdiagramm eines typischen Restaurantbesuchs. Beteiligte Klassen sind der Gast, der Kellner und der Koch. Der Gast betritt das Restaurant und setzt sich an einen Tisch. Er bestellt beim Kellner ein Getränk, während dieser ihm die Speisekarte aushändigt. Danach bestellt er sein ausgewähltes Essen beim Kellner. Nach einer Wartezeit bekommt er sein Essen und verspeist es. Nachdem der Kellner ihm seine Rechnung gebracht hat, bezahlt der Gast und geht. Bitte modellieren sie auch die Sequenz der Kommunikation des Kellners mit dem Koch.
 
-![[Aufgabe-7.png]]
+![Aufgabe 7](https://raw.githubusercontent.com/very-many/UX-SE-S4/refs/heads/main/2%20Klausur%20docx/Archive/Aufgabe-7.png)
