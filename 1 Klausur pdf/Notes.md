@@ -120,3 +120,8 @@ Das ganze mit `self` braucht in C# niemand, das ist so ein Python ding.
 > Beschreiben sie kurz wie diversifizierende Softwaretest durchgeführt werden.
 
 *Kommt noch* -- könnt aber au chat gpt oder so fragen
+
+> Erstellen sie ein Sequenzdiagramm das den folgenden Sachverhalt widerspiegelt: 
+> Ein Kunde reklamiert ein Produkt in einem Fachgeschäft. Er begrüßt den zuständigen Mitarbeiter des Geschäfts. Dieser erwidert seinen Gruß. Der Mitarbeiter fragt den Kunden was für ein Anliegen er hätte. Dieser antwortet er möchte das fehlerhafte Produkt zurückgeben. Darauf fragt der Mitarbeiter ob der Kunde einen Kassenzettel vorlegen könnte. Der Kunde durchsucht seine Taschen, um nach dem Kassenzettel zu suchen. Leider kann er ihn nicht finden. Er fragt den Mitarbeiter, ob es nicht auch ohne Kassenzettel ginge. Dieser antwortet, er müsse seinen Chef fragen. Daraufhin verschwindet er im Büro des Geschäfts. Der Chef sagt, dass in diesem Fall eine Ausnahme möglich ist. Er soll dem Kunden das Geld zurückerstatten. Der Kunde wartet währenddessen. Nach einiger Zeit kommt der Mitarbeiter zurück und teilt dem Kunden mit, dass die Rückgabe auch ohne Kassenzettel möglich ist und händigt dem Kunden das Geld aus. Der Kunde bedankt sich und verlässt das Geschäft.
+
+![Aufgabe-8](https://raw.githubusercontent.com/very-many/UX-SE-S4/main/1%20Klausur%20pdf/Archive/Aufgabe-8.png)
